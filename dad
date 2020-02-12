@@ -1,0 +1,17 @@
+[33mcommit 52af3dab54d31e5a157e10c0c92338783428d6fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Muh. Yasin Ardhi Sawal <muh.yasin.ardhi.sawal@gmail.com>
+Date:   Wed Feb 12 18:21:21 2020 +0800
+
+    maze first stage
+
+[33mcommit 6b44dfaa62787fff1a57ce1528330c1c9244cb41[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Muh. Yasin Ardhi Sawal <muh.yasin.ardhi.sawal@gmail.com>
+Date:   Wed Feb 12 17:50:14 2020 +0800
+
+    add collision of the shapes
+
+[33mcommit fca3fdbbad681f3eea47c082f80d04b7be07addd[m
+Author: Muh. Yasin Ardhi Sawal <muh.yasin.ardhi.sawal@gmail.com>
+Date:   Wed Feb 12 16:47:48 2020 +0800
+
+    maze file setup
